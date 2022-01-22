@@ -1,6 +1,6 @@
 package com.z.mvp_login.model;
 
-public interface Callback {
+public interface ICallback {
 
 //    void onRequest();
 
